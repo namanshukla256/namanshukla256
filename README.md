@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @namanshukla256
-- 👀 I’m interested in Software & AI
-- 💞️ I’m looking to collaborate on Open source projects
+- 👀 I’m into SAAS & AI
 - 📫 How to reach me
 Email :- naman.shukla54@gmail.com
 
