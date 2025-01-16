@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @namanshukla256
-- 👀 I’m into SAAS & AI
+- 👋 Hi, I’m NamaN
+- 👀 I’m into Web Applications & AI
 - 📫 How to reach me
 Email :- naman.shukla54@gmail.com
 
